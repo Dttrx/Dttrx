@@ -1,4 +1,4 @@
-### *gatico* 😾:cat:
+### *gatico* 😾:cat:🤙
 
 ![logo](https://github.com/Dttrx/Dttrx/blob/main/assets/gatito.jpg?raw=true)
 
