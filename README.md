@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logo](https://github.com/Dttrx/Dttrx/blob/main/assets/gatito.jpg?raw=true)
+
 <!--
 **Dttrx/Dttrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
